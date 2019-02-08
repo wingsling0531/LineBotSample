@@ -4,6 +4,8 @@ function Hello(){
 	
 	return rply;//把要說的送回分析區
 
+}	
+
 function greentea(){
 	
 	var rply = '是隻鳥!';
