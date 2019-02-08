@@ -15,5 +15,5 @@ function greentea(){
 }
 
 module.exports = {
-	Hello
+	Hello,greentea
 };//這個部分是為了讓使用這個.js的程式知道哪些函數能用
