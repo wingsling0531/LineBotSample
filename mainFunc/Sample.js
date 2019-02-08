@@ -3,6 +3,12 @@ function Hello(){
 	var rply = '你好!';//定義機器人要說啥
 	
 	return rply;//把要說的送回分析區
+
+function greentea(){
+	
+	var rply = '是隻鳥!';
+	
+	return rply;
 	
 }
 
